@@ -1,2 +1,2 @@
-# NEU-PredictiveAnalytics
+# NEU-Predictive Analytics
 Builds on the foundation laid by ALY 6000 and ALY 6010 by introducing fundamental data due diligence, reliability, data correction and recoding processes and practices, in addition to expanding upon the earlier introduced approaches to discerning and validating patterns in data through sound applications of the scientific method, with a particular emphasis on hypothesis testing, the notion of statistical significance, and tests of difference. The goal of this course is to endow students with the fundamental data management, review, re-engineering, and exploration skills, as necessary data analytical competencies. 
